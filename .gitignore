@@ -1,2 +1,32 @@
-*/bin
+# Maven
+target/
+*.versionsBackup
+
+# Files + directories created during build
 aj-build/
+build/local.properties
+taskdefs/bin
+
+# Log files
+log.txt
+
+# Eclipse
+.classpath
+.project
+.settings
+
+# IntelliJ IDEA
+*.iml
+.idea/
+
+# Visual Studio Code
+.vscode
+
+# MacOS X Finder
+.DS_Store
+
+# Linux
+.attach_pid*
+
+# No idea where these come from
+bin/

@@ -45,8 +45,8 @@
         (For a discussion of what affected types might be required,
          see <ulink url="../progguide/implementation.html">The AspectJ
          Programming Guide, Implementation Appendix</ulink>.)
-    <para>
     </para>
+    <para>
         To specify sources, you can list source files as arguments or use the 
         options <parameter>-sourceroots</parameter> or <parameter>-inpath</parameter>.
         If there are multiple sources for any type, the result is undefined
@@ -536,7 +536,7 @@
         AspectJ is a compatible extension to the Java programming language. The
         AspectJ compiler adheres to the <ulink
         url="http://java.sun.com/docs/books/jls/index.html"> <citetitle
-        pubwork="book">The Java Language Specfication, Second
+        pubwork="book">The Java Language Specification, Second
         Edition</citetitle></ulink> and to the <ulink
         url="http://java.sun.com/docs/books/vmspec/index.html"><citetitle
         pubwork="book">The Java Virtual Machine Specification, Second
